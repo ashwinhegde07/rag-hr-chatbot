@@ -1,0 +1,13 @@
+flask
+streamlit
+requests
+faiss-cpu
+sentence-transformers
+langchain
+PyPDF2
+numpy
+pandas
+tqdm
+rank_bm25
+python-dotenv
+groq
